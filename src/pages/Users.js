@@ -17,9 +17,16 @@ function Users() {
         <tbody>
           <tr>
             <td>1</td>
-            <td>Jane Doe</td>
-            <td>jane@example.com</td>
+            <td>Kiptoo Rorio</td>
+            <td>roriokiptoo2016@gmail.com</td>
             <td>Admin</td>
+            <td><Button variant="warning" size="sm">Edit</Button></td>
+          </tr>
+          <tr>
+            <td>1</td>
+            <td>Joan Barnoh</td>
+            <td>joanbarnoh@gmail.com</td>
+            <td>Student</td>
             <td><Button variant="warning" size="sm">Edit</Button></td>
           </tr>
         </tbody>
