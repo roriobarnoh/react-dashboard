@@ -23,9 +23,23 @@ function Users() {
             <td><Button variant="warning" size="sm">Edit</Button></td>
           </tr>
           <tr>
-            <td>1</td>
+            <td>2</td>
             <td>Joan Barnoh</td>
             <td>joanbarnoh@gmail.com</td>
+            <td>Student</td>
+            <td><Button variant="warning" size="sm">Edit</Button></td>
+          </tr>
+          <tr>
+            <td>3</td>
+            <td>Gian Kipngetich </td>
+            <td>gigikip@gmail.com</td>
+            <td>Student</td>
+            <td><Button variant="warning" size="sm">Edit</Button></td>
+          </tr>
+          <tr>
+            <td>4</td>
+            <td>Dyllan Kiptoo</td>
+            <td>deekiptoo@gmail.com</td>
             <td>Student</td>
             <td><Button variant="warning" size="sm">Edit</Button></td>
           </tr>
